@@ -1,7 +1,7 @@
 package com.example.demo.Bai1;
 
 public class GiaiThua {
-    public Integer  tinhGiaiThua(Integer  n){
+    public Integer tinhGiaiThua(Integer  n){
         if (n == null) {
             throw new NullPointerException("Giá trị đầu vào không được null!");
         }
